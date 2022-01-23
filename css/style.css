@@ -25,12 +25,17 @@ body{
 .royal-Package{
   color: #130f40;
 }
-.royal-choose-3rd{
-  color: #3F87F5;
-  background-color: white;
-  width: 207px;
-  height: 45px;
-}
+
 .royal-bg-style{
   background-color: #1B98F5;
+  width: 292px;
+  height: 480px;
+}
+.royal-faq-img{
+  width: 450px;
+  height: 310px;
+  border-radius: 5px;
+}
+.royal-faq-border{
+  border: #D5E5FB;
 }
