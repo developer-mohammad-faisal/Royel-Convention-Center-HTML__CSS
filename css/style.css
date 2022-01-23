@@ -28,14 +28,16 @@ body{
 
 .royal-bg-style{
   background-color: #1B98F5;
-  width: 292px;
-  height: 480px;
 }
 .royal-faq-img{
-  width: 450px;
-  height: 310px;
-  border-radius: 5px;
+  width: 100%;
 }
 .royal-faq-border{
   border: #D5E5FB;
+}
+.royal-footer-bg{
+  color: #D9DBE1;
+  width: 100%;
+  height: 280px;
+  background-color: #0B0D17;
 }
