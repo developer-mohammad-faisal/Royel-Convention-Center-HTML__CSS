@@ -35,7 +35,7 @@ body{
   background-color: #1B98F5;
   box-shadow: 8px 8px 30px gray;
 }
-.royal-toast{
+.royal-badges{
   color: white;
   background: #d60303;
   padding: 6px 15px;
@@ -53,6 +53,6 @@ body{
 }
 .royal-footer-bg{
   color: #D9DBE1;
-  margin-top: 40px;
+  margin-top: 200px;
   background-color: #0B0D17;
 }
